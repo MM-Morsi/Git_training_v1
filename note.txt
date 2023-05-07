@@ -1,0 +1,2 @@
+I used this command to overcome the password issue with git push 
+git clone git@github.com:MM-Morsi/Git_training_v1.git
